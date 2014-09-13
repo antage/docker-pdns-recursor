@@ -1,4 +1,3 @@
-docker-pdns-recursor
-====================
+# docker-pdns-recursor
 
-Docker image with local dns recursor
+Docker image with local dns recursor.
