@@ -1,4 +1,5 @@
 # pdns-recursor
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/antage/docker-pdns-recursor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Docker image with local dns recursor.
 Based on debian:stable and pdns-recursor.
